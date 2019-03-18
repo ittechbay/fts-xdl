@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/board_bg.bmp</file>
+        <file>img/gray_led_.bmp</file>
+        <file>img/gray_led.bmp</file>
+        <file>img/green_led_.bmp</file>
+        <file>img/green_led.bmp</file>
+        <file>img/red_led_.bmp</file>
+        <file>img/red_led.bmp</file>
+        <file>img/add.png</file>
+        <file>img/sub.png</file>
+        <file>img/antenna.png</file>
+        <file>img/v220.png</file>
+        <file>img/alloc.png</file>
+        <file>img/sel1.png</file>
+        <file>img/sel2.png</file>
+        <file>img/sel3.png</file>
+        <file>img/sw1.png</file>
+        <file>img/sw2.png</file>
+        <file>img/clock.png</file>
+        <file>img/logo.png</file>
+        <file>img/tab_1.png</file>
+        <file>img/tab_2.png</file>
+        <file>img/tab_3.png</file>
+    </qresource>
+</RCC>
